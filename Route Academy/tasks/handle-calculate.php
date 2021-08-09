@@ -7,7 +7,8 @@
 
         header("Location:index.php?result=".$result);
 
-    }else{
+    }else
+    {
         header("Location:index.php" );
     }
     ?>
